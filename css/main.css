@@ -24,10 +24,12 @@ body {
 #screen {
   background: #EF5D5D;
   border: none;
-  font-family: 'Orbitron', sans-serif;
-  font-size: 1.4em;
+  font-family: 'Lucida', sans-serif;
+  font-size: 2em;
   font-weight: 600;
+  text-align: right;
   height: 17px;
+  line-height: 17px;
   padding: 15px;
   width: 265px;
   z-index: 1;
@@ -66,7 +68,8 @@ body {
   box-shadow: inset 0px 1px 0px #5E626D, 0px 5px 0px 0px #45637F;
   cursor: pointer;
   float: left;
-  font-family: 'Oswald', sans-serif;
+  font-family: 'Lucida', sans-serif;
+  font-weight: 600;
   width: 70px;
   height: 40px;
   margin: 0 7px 11px 0;
